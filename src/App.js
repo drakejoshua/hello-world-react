@@ -1,23 +1,11 @@
-import logo from './logo.svg';
+// import the stylesheet for this component
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* The first hello-world message */}
+      <h1>hello world - react</h1>
     </div>
   );
 }
