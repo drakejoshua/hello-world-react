@@ -1,5 +1,6 @@
 {
   "name": "hello-world-react",
+  "homepage": "https://drakejoshua.github.io/hello-world-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
